@@ -1,0 +1,14 @@
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.exe
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.deps.json
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.runtimeconfig.json
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\bin\Debug\net8.0\ProjetoFinal.pdb
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\refint\ProjetoFinal.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.pdb
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\ProjetoFinal\obj\Debug\net8.0\ref\ProjetoFinal.dll
